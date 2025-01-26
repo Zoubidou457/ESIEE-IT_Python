@@ -1,6 +1,8 @@
 # Générateur de Mots de Passe et Passphrases
 
-Bienvenue dans le projet de génération de mots de passe et de passphrases. Cette application permet de créer des mots de passe sécurisés et des passphrases à partir d'une liste de mots. Elle calcule également l'entropie du mot de passe ou de la passphrase générée et évalue sa force.
+Bienvenue dans le projet de génération de mots de passe et de passphrases. 
+Cette application permet de créer des mots de passe sécurisés et des passphrases à partir d'une liste de mots. 
+Elle calcule également l'entropie du mot de passe ou de la passphrase générée et évalue sa force.
 
 ## Fonctionnalités
 
@@ -25,4 +27,4 @@ Bienvenue dans le projet de génération de mots de passe et de passphrases. Cet
 1. Clonez ce dépôt ou téléchargez les fichiers du projet.
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-repository.git
+git clone https://github.com/Zoubidou457/ESIEE-IT_Python.git
