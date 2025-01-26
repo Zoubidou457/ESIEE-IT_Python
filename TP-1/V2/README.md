@@ -17,4 +17,4 @@ Ce projet est un quiz interactif sur les jeux vidéo développé en Python avec 
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://gitlab.com/votre_nom_utilisateur/quiz_game.git
+   git clone https://github.com/Zoubidou457/ESIEE-IT_Python.git
