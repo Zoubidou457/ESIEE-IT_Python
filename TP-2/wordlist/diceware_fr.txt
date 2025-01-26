@@ -1,0 +1,21 @@
+1 aigle
+2 ballon
+3 ciel
+4 diamant
+5 épicerie
+6 famille
+7 gracieuse
+8 harmonieux
+9 île
+10 jardin
+11 kangourou
+12 lampe
+13 magnifique
+14 nez
+15 orangé
+16 paradis
+17 quiche
+18 réverie
+19 soleil
+20 tapis
+
