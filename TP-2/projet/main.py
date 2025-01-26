@@ -154,8 +154,8 @@ class PasswordToolApp:
             self.entropy_label.config(text=f"Entropie de la passphrase: {entropy:.2f} bits", foreground="#3498db")
 
 if __name__ == "__main__":
-    wordlist_dir = './ESIEE-IT_Python/TP-2/wordlist'  # Dossier relatif pour le fichier
-    wordlist_path = os.path.join(wordlist_dir, "diceware_fr.txt")  # Chemin complet du fichier
+    wordlist_dir = './wordlist/'  # Dossier relatif pour le fichier
+    wordlist_path = os.path.join(wordlist_dir + "diceware_fr.txt")  # Chemin complet du fichier
     if not os.path.exists(wordlist_path):
         print(f"Le fichier {wordlist_path} est introuvable. Assurez-vous qu'il existe.")
     else:
